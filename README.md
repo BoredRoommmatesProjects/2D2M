@@ -1,2 +1,2 @@
-# 2D2M
+# D2M2
 Bro moment
